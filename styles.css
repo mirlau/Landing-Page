@@ -193,7 +193,7 @@ ul {
     left: 320px;
 }
 
-.footer {
+.alert {
     background-color: #f9faf8;
     display: flex;
     align-items: center;
@@ -201,7 +201,7 @@ ul {
     height: 400px;
 }
 
-.footer .container {
+.alert .container {
     background-color: #3882f6;
     width: 1000px;
     padding: 40px 0px 40px 0px;
